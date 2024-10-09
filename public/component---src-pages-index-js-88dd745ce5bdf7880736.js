@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklucas_bevins_s_weird_site=self.webpackChunklucas_bevins_s_weird_site||[]).push([[678],{6558:function(e,t,n){n.r(t),n.d(t,{Head:function(){return s}});var l=n(7294),a=n(4160);const s=()=>l.createElement("title",null,"Home Page");t.default=()=>l.createElement("main",null,l.createElement("h1",null,"Lucas Bevins's Weird Site"),l.createElement(a.rU,{to:"/about"},"About"),l.createElement("p",null,"I'm making this by following the Gatsby Tutorial."))}}]);
+//# sourceMappingURL=component---src-pages-index-js-88dd745ce5bdf7880736.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklucas_bevins_s_weird_site=self.webpackChunklucas_bevins_s_weird_site||[]).push([[682],{5465:function(e,t,n){n.r(t),n.d(t,{Head:function(){return s}});var l=n(7294),u=n(4160);const s=()=>l.createElement("title",null,"About Me");t.default=()=>l.createElement("main",null,l.createElement("h1",null,"About Me"),l.createElement(u.rU,{to:"/"},"Back to Home"),l.createElement("p",null,"I'm Lucas Bevins."))}}]);
+//# sourceMappingURL=component---src-pages-about-js-a545311272dcce4cab2a.js.map
