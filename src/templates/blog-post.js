@@ -7,14 +7,5 @@ export default React
 
 function Recipe({pageContext}) {
   const {recipe} = pageContext
-  return (
-	<p>
-	---
-		title: {recipe.title}
-		date: {recipe.created}
-		slug: {recipe.title}
-	---
-	{recipe.body}
-	</p>
-  )
+  return <>{recipe.id}</>
 }

@@ -29,12 +29,10 @@ export const query = graphql`
   allMdx {
     nodes {
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date
+        slug
         title
-	slug
       }
-      id
-      excerpt
     }
   }
 }`
